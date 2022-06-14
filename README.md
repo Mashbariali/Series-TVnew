@@ -38,3 +38,7 @@ There are a large number of series and you cannot watch them all. The site makes
 - Create, Read, Update, Delete Review.
 - Add Suggestions.
 
+
+PostMan:
+https://www.getpostman.com/collections/5e4b92d98abda424a342
+
